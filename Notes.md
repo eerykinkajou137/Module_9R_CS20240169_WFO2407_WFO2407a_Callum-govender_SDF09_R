@@ -1,0 +1,1 @@
+For some reason i did encounter issues with the button being unresponsive however after briefly reworking the id and function names the issue was resolved
